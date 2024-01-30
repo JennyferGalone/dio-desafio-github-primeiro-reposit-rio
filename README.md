@@ -25,6 +25,8 @@ Deletar a pasta/repositório: rmdir nome da pasta /S / Q enter
 
 listar uma pasta oculta: ls -a
 
+git clone e colar o link
+
 Adicionar no controle de versão local- Git add .
 
 Comitar - Git commit -m
